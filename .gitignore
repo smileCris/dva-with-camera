@@ -1,0 +1,13 @@
+node_modules
+platforms
+plugins
+
+# src
+/src/node_modules
+
+# production
+/src/dist
+
+# misc
+.DS_Store
+/src/npm-debug.log*
